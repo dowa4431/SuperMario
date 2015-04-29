@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<enemies>
-	<stage1>
-		<mushroom x="600" y="480" status="left-move" type="mushroom"/>	
-	</stage1>
-	
-</enemies>
