@@ -1,0 +1,7 @@
+Instruction to play Super Mario
+
+1. Download the ‘Final Submission’ directory.
+
+2. Run the super.jar in this directory.
+
+3. Play it.
