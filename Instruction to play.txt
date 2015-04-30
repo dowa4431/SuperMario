@@ -1,6 +1,0 @@
-Instruction to play SuperMario
-
-
-Step 1	Download directory ‘Play’.
-Step 2	Run the ‘SuperMario.jar’ in this directory.
-Step 3	Play it !
